@@ -1,9 +1,9 @@
 
 /**
- * Write a description of class main here.
+ * Allows for a list of shows to be entered and puts them against one another in order to pick what to watch next
  *
- * @author (your name)
- * @version (a version number or a date)
+ * Ally Zernick
+ * November 5 2022
  */
 import java.util.*;
 
